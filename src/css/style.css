@@ -1,0 +1,16 @@
+.form {
+  flex: 1;
+}
+
+.list {
+  flex: 2;
+}
+
+.card-title,
+.card-text {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+
+
